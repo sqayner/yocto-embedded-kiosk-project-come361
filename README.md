@@ -1,0 +1,1 @@
+# yocto-embedded-kiosk-project-come361
